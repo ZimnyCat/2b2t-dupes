@@ -1,4 +1,3 @@
-from time import sleep
 import dupegen
 
 print("Сколько шагов должно быть в дюпе?")
